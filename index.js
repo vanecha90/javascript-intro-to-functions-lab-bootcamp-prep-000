@@ -1,8 +1,9 @@
+var string= "hello!"
 function shout(string) 
 {
   return 
   
-  'Hello!'.toUpperCase()
+  string.toUpperCase()
   
 
 }
